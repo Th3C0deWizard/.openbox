@@ -1,1 +1,2 @@
-tint2 -c ~/.config/tint2/blocks/blocks.tint2rc &
+tint2 &
+killall picom &
